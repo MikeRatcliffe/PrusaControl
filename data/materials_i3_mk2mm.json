@@ -275,7 +275,7 @@
     "generic_pla": {
       "first": 0,
       "sort": 4,
-      "name": "prusa_pla",
+      "name": "generic_pla",
       "label": "Generic PLA",
       "compatible_with": ["prusa_pla", "generic_pla", "pla_pha", "woodfill", "timberfill", "pva", "bvoh" ],
       "infill": 20,
