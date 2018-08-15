@@ -305,7 +305,7 @@
     "generic_pla": {
       "first": 0,
       "sort": 4,
-      "name": "prusa_pla",
+      "name": "generic_pla",
       "label": "Generic PLA",
       "infill": 20,
       "infillRange": [
